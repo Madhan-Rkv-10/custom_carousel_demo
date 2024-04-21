@@ -49,7 +49,7 @@ samples, guidance on mobile development, and a full API reference.
     <td style="text-align: center;">
       <div>
         <img src="assets/output/two.png" alt="demo Chrome" height="250">
-        <p><a href="lib/views/cover_slider_view.dart" target="_blank">Cover Slider View</a></p>
+        <p><a href="lib/views/home_view.dart" target="_blank">Home View</a></p>
       </div>
     </td>
     <td style="text-align: center;">
